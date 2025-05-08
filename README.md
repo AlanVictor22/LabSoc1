@@ -1,10 +1,12 @@
 ---
-title: Labsoc1
-emoji: 🌖
+title: labsoc1
+emoji: 🐳
 colorFrom: gray
-colorTo: indigo
+colorTo: red
 sdk: static
 pinned: false
+tags:
+  - deepsite
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
